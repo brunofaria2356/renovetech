@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.containerHero {
+  align-items: center;
+  display: grid;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.6)
+  ),
+  url('../img/hero.png');
+  background-size: cover;
+  background-position: center;
+  height: 35vw;
+  text-align: center;
+}
+
+.titleHeroOne {
+  color: white;
+  display: grid;
+  justify-content: center;
+  font-size: 3vw;
+}
+
+.titleColor {
+  color: #04E1FF;
+  font-size: 2.8vw;
+  width: 60vw;
+}
