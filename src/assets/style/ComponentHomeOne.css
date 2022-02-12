@@ -1,0 +1,22 @@
+.containerComponentOne {
+  background-color: #0788FF;
+  display: flex;
+  padding: 5vw;
+  justify-content: space-evenly;
+}
+
+.imgComponentOne {
+  width: 25vw;
+}
+
+.containerParagraphComponentOne {
+  margin: auto 0;
+  width: 40vw;
+}
+
+.paragraphComponentOne {
+  color: white;
+  margin: 3vw 0;
+  font-size: 1.65vw;
+  text-align: justify;
+}
