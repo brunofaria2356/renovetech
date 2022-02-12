@@ -8,6 +8,7 @@
 }
 
 .logoImg {
+  cursor: pointer;
   margin-left: 5vw;
   width: 10vw;
 }
@@ -35,5 +36,6 @@
 
 .ListLink:hover {
   color: rgb(1, 211, 1);
+  cursor: pointer;
   text-decoration: underline;
 }

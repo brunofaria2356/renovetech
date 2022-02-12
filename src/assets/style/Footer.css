@@ -1,0 +1,30 @@
+.containerFooter {
+  background-color: #161616;
+  display: grid;
+  text-align: center;
+  padding: 2vw 2vw 0.5vw;
+}
+
+.FooterTitle {
+  color: white;
+  font-size: 2vw;
+}
+
+.ContainerFooterButtons {
+  margin: 2vw;
+}
+
+.footerButton {
+  border: none;
+  background-color: #161616;
+  margin: 0 1vw;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.FooterParagraph {
+  color: white;
+  font-size: 1vw;
+}
