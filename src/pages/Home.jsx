@@ -3,6 +3,7 @@ import React from 'react';
 import Hero from './components/Hero';
 import ComponentHomeOne from './components/ComponentHomeOne';
 import ComponentHomeTwo from './components/ComponentHomeTwo';
+import ComponentContactUs from './components/ComponentContactUs';
 
 
 function Home() {
@@ -11,8 +12,9 @@ function Home() {
       <Hero />
       <ComponentHomeOne />
       <ComponentHomeTwo />
+      <ComponentContactUs />
     </>
   )
 }
 
-export default Home
+export default Home;

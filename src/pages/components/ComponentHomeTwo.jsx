@@ -25,4 +25,4 @@ function ComponentHomeTwo() {
   )
 }
 
-export default ComponentHomeTwo
+export default ComponentHomeTwo;

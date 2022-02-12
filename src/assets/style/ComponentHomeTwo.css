@@ -1,9 +1,10 @@
 .containerHomeTwo {
-  background-color: white;
+  background-color: #04062C;
   padding: 3vw;
 }
 
 .componentHomeTowTitle {
+  color: white;
   font-size: 2.5vw;
   text-align: center;
   width: 40vw;
@@ -16,8 +17,8 @@
 }
 
 .containerHomeTwoCard {
-  background-color: #0788FF;
-  box-shadow: 0.3vw 0.3vw 0.8vw 0 rgba(0,0,0,0.65);
+  background-color: white;
+  box-shadow: 0.3vw 0.3vw 0.5vw 0 rgba(255, 255, 255, 0.85);
   padding: 3vw 2vw 0;
   margin: 0 2vw;
   height: 18vw;
@@ -26,12 +27,12 @@
 }
 
 .HomeTwoCardTitle {
-  color: white;
+  color: black;
   margin-bottom: 2vw ;
   font-size: 2vw;
 }
 
 .HomeTwoCardParagraph {
-  color: white;
+  color: black;
   font-size: 1.15vw;
 }

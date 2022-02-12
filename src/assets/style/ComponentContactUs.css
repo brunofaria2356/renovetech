@@ -1,0 +1,28 @@
+.containerContactUs {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 3vw;
+}
+
+.ContactUsTitle {
+  font-size: 2vw;
+  width: 40vw;
+}
+
+.ContactUsButton {
+  background-color: #0788FF;
+  border: none;
+  border-radius: 1vw;
+  color: white;
+  display: flex;
+  font-size: 1.5vw;
+  font-weight: 900;
+  align-items: center;
+  justify-content: center;
+  width: 15vw;
+}
+
+.ContactUsMessage {
+  margin-right: 1vw;
+}
