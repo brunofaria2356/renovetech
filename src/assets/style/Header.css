@@ -1,0 +1,39 @@
+.containerHeader {
+  align-items: center;
+  background-color: #04062C;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  padding: 1vw;
+}
+
+.logoImg {
+  margin-left: 5vw;
+  width: 10vw;
+}
+
+.containerNav {
+  margin-right: 5vw;
+  width: 25vw;
+}
+
+.listUL {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ListLI {
+  list-style: none;
+}
+
+.ListLink {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1vw;
+  font-weight: 500;
+}
+
+.ListLink:hover {
+  color: rgb(1, 211, 1);
+  text-decoration: underline;
+}
