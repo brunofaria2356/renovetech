@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import HeroJobs from './components/HeroJobs';
 
 function Jobs() {
   return (
-    <div>Jobs</div>
+    <HeroJobs />
   )
 }
 
