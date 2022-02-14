@@ -1,0 +1,40 @@
+.containerJobsTree {
+  background-color: #0788FF;
+  padding: 3vw;
+}
+
+.titleJobsTree {
+  color: white;
+  text-align: center;
+  font-size: 2vw;
+}
+
+.containerCardsJobsTree {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 50vw;
+}
+
+.cardJobsTree {
+  background-color: #BDE7FF;
+  border: 0.2vw solid black;
+   box-shadow: 0.1vw 0.3vw 0.2vw 0 rgba(0, 0, 0, 0.95);
+  margin: 2vw;
+  height: 25vw;
+  text-align: center;
+  width: 20vw;
+}
+
+.imgJobsTree {
+  align-items: center;
+  display: flex;
+  margin: 2vw auto;
+  width: 8vw;
+}
+
+.paragraphJobsTree {
+  margin: 2vw auto;
+  font-size: 1.3vw;
+  width: 15vw;
+}
