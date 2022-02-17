@@ -6,15 +6,15 @@ import IconWhatsApp from '../../assets/icon/icons8-whatsapp-64.png';
 
 
 const redirectInstagram = () => {
-  window.open("https://www.instagram.com/brunofaria2356/", "_blank");
+  window.open("https://www.instagram.com/brunofaria2356/");
 }
 
 const redirectLinkedin = () => {
-  window.open("https://www.linkedin.com/in/bruno-faria-012a35192/", "_blank");
+  window.open("https://www.linkedin.com/in/bruno-faria-012a35192/");
 }
 
 const redirectWhatsApp = () => {
-  window.open("https://api.whatsapp.com/send?1=pt_BR&phone=5534988587835", "_blank");
+  window.open("https://api.whatsapp.com/send?1=pt_BR&phone=5534988587835");
 }
 
 

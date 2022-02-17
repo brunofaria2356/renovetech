@@ -1,0 +1,93 @@
+.containerContact {
+  display: flex;
+  justify-content: center;
+  padding: 5vw;
+}
+
+.containerInfos {
+  width: 45vw;
+}
+
+.titleContact {
+  font-size: 4vw;
+}
+
+.hr {
+  background-color: #0788FF;
+  border-radius: 10vw;
+  height: 0.5vw;
+  margin: 2vw 0;
+  width: 8vw;
+}
+
+.paragraphContact {
+  font-size: 1.8vw;
+  width: 35vw;
+}
+
+.imgContact {
+  margin: 5vw 0;
+  width: 30vw;
+}
+
+.containerForms {
+  width: 30vw;
+}
+
+.formsContact {
+  display: grid;
+}
+
+.label {
+  display: grid;
+  margin: 0.5vw 0;
+}
+
+.input {
+  border: 0.1vw solid black;
+  border-radius: 0.2vw;
+  height: 2vw;
+  margin: 0.3vw 0 0.5vw;
+  padding: 0.5vw;
+  width: 30vw;
+}
+
+.inputFile {
+  margin: 0.3vw 0 0.5vw;
+}
+
+.span {
+  color: red;
+}
+
+.textArea {
+  resize: none;
+  height: 10vw;
+}
+
+.btnSubmit {
+  border: none;
+  background-color: #0788FF;
+  border-radius: 0.2vw;
+  cursor: pointer;
+  color: white;
+  font-size: 1.2vw;
+  font-weight: 600;
+  height: 2vw;
+  margin: 1.5vw auto;
+  width: 8vw;
+}
+
+.displayNone {
+  display: none;
+}
+
+.input:required:valid {
+  background-color: #0788FF;
+  color: white;
+  font-weight: 800;
+}
+
+.input:required:invalid {
+  background-color: red;
+}
